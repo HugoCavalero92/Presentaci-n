@@ -15,5 +15,8 @@ Mis pasatiempos favoritos aparte de estudiar y trabajar son:
 * Visitar amigos 🍻
 * Reir con la familia 👪
 * Sacar a pasear a mi perro 🐕
+* Mirar peliculas de acción
+
+
 
 
