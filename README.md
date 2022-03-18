@@ -1,4 +1,6 @@
-# Hugo Manuel Cavalero
+# Hugo Manuel Cavalero  
+<img src="https://user-images.githubusercontent.com/72712498/158930012-23a7c12b-7769-4e50-943a-16539dd3a2ce.jpg" width='350px' height='380px' >  
+
 ## Mi presentación personal
 
 Hola mi nombre es Hugo 👨, soy estudiante de la Licenciatura en gestión de la tecnología de la informacion.  
@@ -14,5 +16,4 @@ Mis pasatiempos favoritos aparte de estudiar y trabajar son:
 * Reir con la familia 👪
 * Sacar a pasear a mi perro 🐕
 
-![texto_alternativo](){width='100px' height='100px'}
 
